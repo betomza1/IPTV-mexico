@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-name="Azteca Internacional (1080p)" group-title="General",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="adn_40" tvg-name="ADN 40" group-title="Noticias",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-name="Azteca 7 (1080p)" group-title="General",Azteca 7 (1080p)
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-name="Las Estrellas (1080p)" group-title="General",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="5_mexico" tvg-name="Canal 5 (Mexico) XET-TDT (1080p)" group-title="General",Canal 5 (Mexico) XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-name="Imagen TV (1080p)" group-title="General",Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx@SD" tvg-name="MVS TV" group-title="General",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us@SD" tvg-name="EstrellaTV" group-title="General",EstrellaTV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx@SD" tvg-name="Multimedios Ciudad Juárez (720p) [Not 24/7]" group-title="General",Multimedios Ciudad Juárez (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-id="Canal8.cr" tvg-name="Canal 8 (720p) [Not 24/7]" group-title="General",Canal 8 (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-name="Canal 10 Durango" group-title="General",Canal 10 Durango
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-name="Canal 44" group-title="General",Canal 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-id="XHIJTDT.mx@SD" tvg-name="Canal 44 Ciudad Juárez" group-title="General",Canal 44 Ciudad Juárez
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" tvg-name="Canal 9 Resistencia (720p)" group-title="General",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-name="Latina Clasicos" group-title="Series",Latina Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-name="Canal 11 (1080p) [Not 24/7]" group-title="General",Canal 11 (1080p) [Not 24/7]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-name="Canal Catorce (1080p) [Not 24/7]" group-title="General",Canal Catorce (1080p) [Not 24/7]
+https://stream.haislin.com/14tv/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@WKAQTV" tvg-name="Telemundo(1080p)" group-title="General",Telemundo(1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-name="24/7 Canal de Noticias" group-title="Noticias",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-name="A24 (720p)" group-title="Noticias",A24 (720p)
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" group-title="Noticias",Milenio Television
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-name="CGTN Spanish" group-title="Noticias",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="dw_latinoamerica" tvg-name="DW Espanol (1080p)" group-title="Noticias",DW Espanol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="Noticias",Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo Noticias Ahora" group-title="Noticias",Telemundo Noticias Ahora
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="France 24 Español (1080p)" group-title="Noticias",France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-name="RT en Español (1080p) [Geo-blocked]" group-title="Noticias",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-name="TeleFormula" group-title="Noticias",TeleFormula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-name="Canal E (720p)" group-title="Noticias",Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-name="Capital 21 (1080p) [Not 24/7]" group-title="General",Capital 21 (1080p) [Not 24/7]
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-name="Canal 22 Nacional (720p) [Geo-blocked]" group-title="General",Canal 22 Nacional (720p) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-name="Canal Once (1080p)" group-title="General",Canal Once (1080p)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central en español" group-title="Comedia",Comedy Central en español
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="Distrito Comedia (1080p)" group-title="Comedia",Distrito Comedia (1080p)
+http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="13Humor.cl@SD" tvg-name="13 Humor (1080p)" group-title="Comedia",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@LatAm" tvg-name="Comedy Central South Park LatAm" group-title="Comedia",Comedy Central South Park LatAm
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-name="National Geographic (Mexico) (1080p)" group-title="Documentary",National Geographic (Mexico) (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-name="History 2 Latin America (1080p)" group-title="Documentary",History 2 Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-name="History Latin America South" group-title="Documentary",History Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-name="Investigation Discovery Latin America South" group-title="Documentary",Investigation Discovery Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-name="CBS en español" group-title="Series",CBS en español
+https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-name="A&E Latin America (1080p)" group-title="General",A&E Latin America (1080p)
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-name="AXN Latin America South" group-title="General",AXN Latin America South
+http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-id="CSIenespanol.us" tvg-name="CSI en Español" group-title="Series",CSI en Español
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+#EXTINF:-1 tvg-name="Televisa Telenovelas" group-title="Series",Televisa Telenovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-name="Tlnovelas Mexico (1080p)" group-title="Series",Tlnovelas Mexico (1080p)
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-name="Zylo Todo Novelas (1080p)" group-title="Series",Zylo Todo Novelas (1080p)
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="13 Teleseries (720p)" group-title="Series",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-name="TVE Star HD (1080p)" group-title="Series",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-name="Telemundo Accion" group-title="Series",Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Foro.mx" tvg-name="Foro (720p) [Geo-blocked]" group-title="Noticias",Foro (720p) [Geo-blocked]
+https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
